@@ -41,6 +41,7 @@ Use this option if you're not planning to publish your Jekyll site using [Github
 Bundler's Gemfile specifies how project dependencies are managed. Although this project includes a Gemfile, this theme doesn't have any dependencies beyond core Jekyll. The Gemfile is used to list gems needed for publishing on Github Pages. **If you're not planning to have Github Pages build your Jekyll project, delete these two files from the theme's root directory:**
 
 * Gemfile
+
 * Gemfile.lock
 
 If you've never run Jekyll on your computer (you can check with `jekyll --version`), you may need to install the jekyll gem:
